@@ -10,7 +10,7 @@
 
 describe('Signup  the user ', () => {
     it('passes', () => {
-      cy.visit('https://dev-fe.buttonshift.com')
+      //cy.visit('https://dev-fe.buttonshift.com')
       cy.get('.css-m7nve9 > .MuiButton-text').click()
       cy.get('[data-cy="auth-email-input"]').type('yugendrankumar002@gmail.com{enter}')
       cy.get('#mui-3').type('Yugendran@45')
