@@ -16,12 +16,12 @@
 //       cy.get('#mui-3').type('Yugendran@45')
 //       cy.get('#mui-4').type('Yugendran@45{enter}')
 //       cy.get('[aria-label="Please enter OTP character 1"]').type('1')
-//        cy.get('[aria-label="Please enter OTP character 1"]').type('2')
-//        cy.get('[aria-label="Please enter OTP character 1"]').type('3')
-//        cy.get('[aria-label="Please enter OTP character 1"]').type('4')
-//        cy.get('[aria-label="Please enter OTP character 1"]').type('5')
+//       cy.get('[aria-label="Please enter OTP character 1"]').type('2')
+//       cy.get('[aria-label="Please enter OTP character 1"]').type('3')
+//       cy.get('[aria-label="Please enter OTP character 1"]').type('4')
+//       cy.get('[aria-label="Please enter OTP character 1"]').type('5')
 //       cy.get('[aria-label="Please enter OTP character 1"]').type('6{enter}')
-//       cy.get('#mui-6').select('value2');
+//         cy.get('#mui-6').select('value2');
 //      cy.get('[data-cy="signup-phone-input"]').type('8932372343{enter}')                   
 
 
